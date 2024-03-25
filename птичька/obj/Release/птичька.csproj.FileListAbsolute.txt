@@ -1,0 +1,24 @@
+D:\птиьчка лежать\птичька\птичька\obj\Release\птичька.csproj.AssemblyReference.cache
+D:\птиьчка лежать\птичька\птичька\obj\Release\MainWindow.g.cs
+D:\птиьчка лежать\птичька\птичька\obj\Release\App.g.cs
+D:\птиьчка лежать\птичька\птичька\obj\Release\птичька_MarkupCompile.cache
+D:\птиьчка лежать\птичька\птичька\obj\Release\птичька_MarkupCompile.lref
+D:\pfhuheprb\AiSD2022--\птичька\птичька\obj\Release\птичька.csproj.AssemblyReference.cache
+D:\pfhuheprb\AiSD2022--\птичька\птичька\obj\Release\MainWindow.g.cs
+D:\pfhuheprb\AiSD2022--\птичька\птичька\obj\Release\App.g.cs
+D:\pfhuheprb\AiSD2022--\птичька\птичька\obj\Release\птичька_MarkupCompile.cache
+D:\pfhuheprb\AiSD2022--\птичька\птичька\obj\Release\птичька_MarkupCompile.lref
+D:\pfhuheprb\AiSD2022--\птичька\птичька\bin\Release\птичька.exe.config
+D:\pfhuheprb\AiSD2022--\птичька\птичька\bin\Release\птичька.exe.manifest
+D:\pfhuheprb\AiSD2022--\птичька\птичька\bin\Release\птичька.application
+D:\pfhuheprb\AiSD2022--\птичька\птичька\bin\Release\птичька.exe
+D:\pfhuheprb\AiSD2022--\птичька\птичька\bin\Release\птичька.pdb
+D:\pfhuheprb\AiSD2022--\птичька\птичька\obj\Release\MainWindow.baml
+D:\pfhuheprb\AiSD2022--\птичька\птичька\obj\Release\птичька.g.resources
+D:\pfhuheprb\AiSD2022--\птичька\птичька\obj\Release\птичька.Properties.Resources.resources
+D:\pfhuheprb\AiSD2022--\птичька\птичька\obj\Release\птичька.csproj.GenerateResource.cache
+D:\pfhuheprb\AiSD2022--\птичька\птичька\obj\Release\птичька.csproj.CoreCompileInputs.cache
+D:\pfhuheprb\AiSD2022--\птичька\птичька\obj\Release\птичька.exe.manifest
+D:\pfhuheprb\AiSD2022--\птичька\птичька\obj\Release\птичька.application
+D:\pfhuheprb\AiSD2022--\птичька\птичька\obj\Release\птичька.exe
+D:\pfhuheprb\AiSD2022--\птичька\птичька\obj\Release\птичька.pdb
