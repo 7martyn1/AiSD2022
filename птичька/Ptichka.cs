@@ -134,25 +134,9 @@ namespace ZXC
             res += "\n}";
             ZXCw.writer.WriteLine(res);
         }
-
-
-        //public override double LeftX()
-        //{
-        //  Vertices.Sort(new PointComparerX());
-        //  return Vertices[0].X;
-        //}
     }
 
-    //class ObstacleComparerLeftX : IComparer<Obstacle>
-    //{
-    //  public int Compare(Obstacle o1, Obstacle o2)
-    //  {
-    //    double res = o1.LeftX() - o2.LeftX();
-    //    return (res > 0 ? 1 : (res < 0 ? -1 : 0));
-    //  }
-    //}
-
-
+   
     //It represents all data about 'bird' flight
     class Ptichka
     {
