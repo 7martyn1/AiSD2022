@@ -1,0 +1,5 @@
+D:\птиьчка лежать\птичька\птичька\obj\Release\птичька.csproj.AssemblyReference.cache
+D:\птиьчка лежать\птичька\птичька\obj\Release\MainWindow.g.cs
+D:\птиьчка лежать\птичька\птичька\obj\Release\App.g.cs
+D:\птиьчка лежать\птичька\птичька\obj\Release\птичька_MarkupCompile.cache
+D:\птиьчка лежать\птичька\птичька\obj\Release\птичька_MarkupCompile.lref
