@@ -17,7 +17,7 @@ namespace ZXC
 
     public class ZXCw
     {
-        public static StreamReader reader = new StreamReader("input.txt");
+        public static StreamReader reader = new StreamReader(@"..\..\input.txt");
         public static StreamWriter writer = new StreamWriter("letet.txt");
 
         [STAThread]

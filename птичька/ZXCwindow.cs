@@ -43,7 +43,7 @@ namespace ZXC
             {
                 Ptichka p = new Ptichka();
                 List<Point> path = p.PathData();
-                StreamReader reader = new StreamReader("input.txt");
+                StreamReader reader = new StreamReader(@"..\..\input.txt");
                 List<Point> pr = new List<Point>
                 {
                 new Point(30, 0),
